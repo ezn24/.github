@@ -10,13 +10,18 @@
 
 ---
 
+<br>
+<br>
 I'm not a professional developer — at least not yet.
 
 Most of the time, I contribute from a user's perspective.  
 I mainly help with app translations, localization, wording improvements, and small changes that I personally think can make an app feel better to use.
 
 I’m also learning development along the way, so some of my work may be simple, imperfect, or experimental — but it usually comes from actually using the app and noticing what could be improved.
+<br>
+<br>
 
 ---
+<br>
 
 ![My GitHub Game](game.gif)
