@@ -7,7 +7,7 @@
 <br><br>
 
 ![OS](https://img.shields.io/badge/系統%20(OS)-Windows%20%7C%20Linux%20%7C%20Andoird%20%7C%20iOS-blue)
-![LANGUAGE](https://img.shields.io/badge/語言%20(Languages)-繁體中文%20%7C%20简体中文%20%7C%20English%20%7C%20廣東話-8ec5fc)
+![LANGUAGE](https://img.shields.io/badge/語言%20(Languages)-繁體中文%20%7C%20廣東話%20%7C%20简体中文%20%7C%20English-8ec5fc)
 ![Focus](https://img.shields.io/badge/專注於%20(Focus)-Localization%20%26%20UX-cba6f7)
 
 <br>
