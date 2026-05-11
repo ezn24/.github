@@ -1,8 +1,8 @@
-<div align="center">
+[<div align="center">
 
 # 🙏🏻 Just a user 🙏🏻
 
-<img src="https://count.getloli.com/@ezn24?name=ezn24&theme=capoo-2&padding=16&offset=0&align=center&scale=2&pixelated=1&darkmode=auto" alt="visitor count" />
+<img src="https://count.getloli.com/@ezn24?name=ezn24&theme=capoo-2&padding=16&offset=0&align=center&scale=1&pixelated=0&darkmode=auto" alt="visitor count" />
 
 <br><br>
 
@@ -60,3 +60,4 @@ But almost every idea comes from actually using the software myself.
 ![My GitHub Game](game.gif)
 
 </div>
+](https://count.getloli.com/@ezn24?name=ezn24&theme=capoo-2&padding=16&offset=0&align=center&scale=1&pixelated=0&darkmode=auto)
