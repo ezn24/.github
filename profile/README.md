@@ -10,8 +10,6 @@
 ![LANGUAGE](https://img.shields.io/badge/語言%20(Languages)-繁體中文%20%7C%20廣東話%20%7C%20简体中文%20%7C%20English-8ec5fc)
 ![Focus](https://img.shields.io/badge/專注於%20(Focus)-Localization%20%26%20UX-cba6f7)
 
-<br>
-
 </div>
 
 ---
