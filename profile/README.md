@@ -1,6 +1,10 @@
 <div align="center">
 
-# 🙏🏻 Just a user 🙏🏻
+![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Just%20a%20user&width=1200&height=100)
+<br>
+
+---
+<br>
 
 <img src="https://count.getloli.com/@ezn24?name=ezn24&theme=capoo-2&padding=16&offset=0&align=center&scale=1&pixelated=0&darkmode=auto" alt="visitor count" />
 
