@@ -1,6 +1,6 @@
 <div align="center">
 
-![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Just%20a%20user&width=1200&height=100)
+![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Just%20a%20user&width=900&height=100)
 <br>
 
 ---
