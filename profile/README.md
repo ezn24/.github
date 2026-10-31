@@ -58,6 +58,16 @@ But almost every idea comes from actually using the software myself.
 ---
 
 <div align="center">
+<br><br>
+<a href="https://ezn24.github.io/#translations">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ezn24.github.io/assets/localization-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://ezn24.github.io/assets/localization-light.svg">
+    <img src="https://ezn24.github.io/assets/localization-light.svg" width="800" alt="ezn24 參與的 Weblate 與 Crowdin 專案、翻譯字串數及個人參與比例">
+  </picture>
+</a>
+  
+<br>
 
 ![My GitHub Game](game.gif)
 
