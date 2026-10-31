@@ -67,7 +67,7 @@ But almost every idea comes from actually using the software myself.
   </picture>
 </a>
   
-<br>
+<br><br>
 
 ![My GitHub Game](game.gif)
 
